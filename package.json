@@ -5,7 +5,7 @@
   "authors": [
     "Firebase <operations@firebase.com>"
   ],
-  "description": "Firebase Web Client",
+  "description": "Firebase Web Client for npm",
   "main": "firebase.js",
   "keywords": [
     "Firebase",
@@ -13,13 +13,10 @@
     "real-time",
     "websocket"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinj/firebase-client.git"
+  },
   "license": "MIT",
-  "private": false,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "private": false
 }
